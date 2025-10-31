@@ -1,16 +1,1 @@
-
-\#Proyecto Final Grupo 01 Cohorte 09 Henry
-
-
-
-ssssss
-ouhasfjkhDSH
-ujdjdj
-
-#Proyecto Final Grupo 01 Cohorte 09 Henry
-ihiohio
-dafaf
-<<<<<<< HEAD
-=======
-hola hola de nuevo
->>>>>>> 44db2627c49c81bfc10dcda4077ad147251812e1
+En este repositorio se guardarán las versiones del Proyecto Final del grupo 01. Grupo el cual pertenece a las cohorte 09 de Data Analyst de Henry
