@@ -1,5 +1,8 @@
 # 🏀 [PF - DATA ANALYSTS] Evaluación Predictiva de Rendimiento en Baloncesto (NBA)
 
+
+En este repositorio se guardarán las versiones del Proyecto Final del grupo 01. Grupo el cual pertenece a las cohorte 09 de Data Analyst de Henry
+=======
 ### Soporte Analítico para Apostadores Deportivos
 
 [BADGE: Añadir aquí un badge de tu estado de construcción]
@@ -74,3 +77,4 @@ El proyecto sigue una estructura de Ingeniería de Datos y Análisis estándar:
 | Fernando Tettamanti | Director Comercial y Data Analyst | [Enlace de GitHub] |
 | Valentina Menna | BI Developer y Data Analyst | [Enlace de GitHub] |
 | Julio Lopez | Data Engineer y Data Analyst | [Enlace de GitHub] |
+
