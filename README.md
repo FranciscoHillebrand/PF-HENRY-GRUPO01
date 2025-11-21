@@ -26,14 +26,14 @@ Este proyecto final de Data Analytics aborda el desafío de **reducir la incerti
 
 La solución fue construida utilizando un pipeline _End-to-End_ que garantiza la **reproducibilidad** y el **manejo eficiente de Big Data** (dataset con más de 12 millones de filas).
 
-| Categoría               | Herramientas                         | Uso y Propósito                                                                                                      |
-| :---------------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| **Análisis, EDA y ETL** | `Python` (Pandas, NumPy, MatplotLib) | Limpieza de datos (EDA), **Ingeniería de Features Avanzadas** (Net Rating, Referee Effect) y Modelado Predictivo.    |
-| **Base de Datos**       | `Big Query`                          | Almacenamiento, modelado relacional y gestión eficiente de los datos históricos. Fuente única para la visualización. |
-| **Visualización**       | **`Looker` (Google Cloud)**          | Creación de un Dashboard interactivo (12 Pestañas) para _storytelling_ y presentación de resultados clave.           |
-| **Modelado ML**         | **Regresión Logística**              | Algoritmo de clasificación para predecir la **probabilidad (0 a 1)** de victoria del equipo local.                   |
-| **Versión**             | `Git / GitHub`                       | Control de versiones, colaboración en equipo.                                                                        |
-| **Interfaz MVP**        | `tkinter` (Python)                   | Interfaz Mínima Viable para simular una predicción con `features` de entrada manuales.                               |
+| Categoría               | Herramientas                         | Uso y Propósito                                                                                                                                          |
+| :---------------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Análisis, EDA y ETL** | `Python` (Pandas, NumPy, MatplotLib) | Limpieza de datos (EDA), **Ingeniería de Features Avanzadas** (Net Rating, Referee Effect) y Modelado Predictivo.                                        |
+| **Base de Datos**       | `Big Query`                          | Almacenamiento, modelado relacional y gestión eficiente de los datos históricos. Fuente única para la visualización.                                     |
+| **Visualización**       | **`Looker` (Google Cloud)**          | Creación de un Dashboard interactivo (12 Pestañas) para _storytelling_ y presentación de resultados clave. https://lookerstudio.google.com/s/mwrb7fxbpRw |
+| **Modelado ML**         | **Regresión Logística**              | Algoritmo de clasificación para predecir la **probabilidad (0 a 1)** de victoria del equipo local.                                                       |
+| **Versión**             | `Git / GitHub`                       | Control de versiones, colaboración en equipo.                                                                                                            |
+| **Interfaz MVP**        | `tkinter` (Python)                   | Interfaz Mínima Viable para simular una predicción con `features` de entrada manuales.                                                                   |
 
 ---
 
