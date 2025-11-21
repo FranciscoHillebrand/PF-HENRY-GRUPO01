@@ -80,3 +80,17 @@ El modelo clasifica si el resultado será Victoria Local (1) o Derrota Local (0)
 ---
 
 ## 5. 📁 Estructura del Repositorio
+
+## 6. 🧑‍💻 Autores y Contacto
+
+| Nombre | Rol | GitHub |
+
+| Francisco Hillebrand | Lider y Data Analyst | [Enlace de GitHub] |
+
+| Juan Sebastián Gonzalez | Director de Diseño y Data Analyst | [Enlace de GitHub] |
+
+| Fernando Tettamanti | Director Comercial y Data Analyst | [Enlace de GitHub] |
+
+| Valentina Menna | BI Developer y Data Analyst | [Enlace de GitHub] |
+
+| Julio Lopez | Data Engineer y Data Analyst | [Enlace de GitHub] |
